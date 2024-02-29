@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "207a4092-27e1-48ec-a66c-95e2411c33b0",
+    "content-length": "159",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a space shuttle on a launch pad",
+      "confidence": 0.822502076625824
+    },
+    "metadata": {
+      "width": 2423,
+      "height": 3000
+    }
+  }
