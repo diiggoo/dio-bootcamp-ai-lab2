@@ -16,7 +16,7 @@ O Vision Studio pode gerar descrições de imagens, descrevendo o que está acon
 
 Essas ferramentas podem ser integradas em aplicativos para torná-los mais inteligentes e capazes de entender o mundo visual ao seu redor.
 
-
+## 4. Possibilidades
 As possibilidades de aplicação do Microsoft Vision Studio são diversas e abrangem uma ampla gama de setores e casos de uso. Aqui estão algumas delas:
 
 1. **Segurança e Vigilância**: Utilização em sistemas de segurança para reconhecimento facial em tempo real, identificação de intrusos ou acesso autorizado.
